@@ -16,3 +16,4 @@ npm test
 ```
 
 要求 Node >= 22（使用内置的 `node --test`）。
+- Symphony label-state e2e test @ 2026-11-15T03:22:18Z
